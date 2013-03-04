@@ -2,6 +2,6 @@ package view;
 
 import javax.swing.JPanel;
 
-public class ChatPanel extends JPanel {
+public class EncryptionView extends JPanel {
 
 }
